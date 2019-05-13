@@ -27,7 +27,7 @@ Docker image for Ionic Cordova development, based on [gilhardl/ionic](https://gi
 # Usage
 
 ```
-docker run -it --name ionic-cordova -v /path/to/your/project:/usr/src/app gilhardl/cordova-ionic
+docker run -it --name ionic-cordova -v /path/to/your/project:/usr/src/app gilhardl/ionic-cordova
 ```
 
 # Licence
